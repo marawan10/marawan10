@@ -102,8 +102,22 @@
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=marawan10&repo=my-portfolio-main&theme=tokyonight&hide_border=true)](https://github.com/marawan10/my-portfolio-main)
-[![GitHub Profile](https://github-readme-stats.vercel.app/api/pin/?username=marawan10&repo=marawan10&theme=tokyonight&hide_border=true)](https://github.com/marawan10/marawan10)
+<!-- Featured Projects will be added once repositories are created -->
+<div align="center">
+  <h3>🚀 Coming Soon: Featured Projects</h3>
+  <p>Once you create your GitHub repositories, your featured projects will appear here automatically!</p>
+  
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <div style="border: 2px dashed #444; padding: 20px; border-radius: 10px; width: 300px;">
+      <h4>📁 Portfolio Repository</h4>
+      <p>Your amazing Next.js portfolio will be showcased here</p>
+    </div>
+    <div style="border: 2px dashed #444; padding: 20px; border-radius: 10px; width: 300px;">
+      <h4>👤 Profile Repository</h4>
+      <p>This GitHub profile README repository</p>
+    </div>
+  </div>
+</div>
 
 </div>
 
@@ -273,6 +287,24 @@ NLP           ████████████████     80%
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=marawan10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/marawan10?label=Followers&style=social" alt="GitHub Followers" />
+  <br/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=marawan10.marawan10&left_color=blue&right_color=green" alt="Visitors Badge"/>
+  <img src="https://img.shields.io/github/stars/marawan10?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+</div>
+
+---
+
+## 📈 Profile Analytics Summary
+
+<div align="center">
+
+| 📊 **Metric** | 🔢 **Current** | 📅 **Period** |
+|:---:|:---:|:---:|
+| **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=marawan10&color=blue&style=flat-square) | All Time |
+| **Followers** | ![Followers](https://img.shields.io/github/followers/marawan10?style=flat-square) | Current |
+| **Public Repos** | ![Repos](https://img.shields.io/badge/repos-coming%20soon-blue?style=flat-square) | Current |
+| **Total Stars** | ![Stars](https://img.shields.io/badge/stars-coming%20soon-yellow?style=flat-square) | All Repos |
+
 </div>
 
 ---
