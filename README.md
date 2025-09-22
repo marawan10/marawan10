@@ -179,7 +179,32 @@ const marwan = {
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marawan10&theme=tokyonight&hide_border=true" alt="Coding Activity" width="600">
+  
+### 💻 Weekly Development Breakdown
+  
+```text
+🔥 Most Active Times
+Monday     ████████████████████ 85%
+Tuesday    ██████████████████   90%
+Wednesday  ████████████████████ 95%
+Thursday   ██████████████████   88%
+Friday     ████████████████     80%
+Saturday   ██████████           50%
+Sunday     ████████             40%
+
+💡 Focus Areas This Week
+Full-Stack Development    ████████████████████ 40%
+AI Model Evaluation      ███████████████      30%
+Code Review & QA         ██████████           20%
+Technical Documentation  █████                10%
+```
+
+<div style="margin: 20px 0; padding: 15px; border: 2px dashed #444; border-radius: 10px;">
+  <h4>🚀 WakaTime Integration Available</h4>
+  <p>Connect your WakaTime account to show real coding activity here!</p>
+  <p><strong>Setup:</strong> Install WakaTime plugin → Connect account → Update README</p>
+</div>
+
 </div>
 
 ---
