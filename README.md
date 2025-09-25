@@ -173,12 +173,6 @@ Code Review & QA         ██████████           20%
 Technical Documentation  █████                10%
 ```
 
-<div style="margin: 20px 0; padding: 15px; border: 2px dashed #444; border-radius: 10px;">
-  <h4>🚀 WakaTime Integration Available</h4>
-  <p>Connect your WakaTime account to show real coding activity here!</p>
-  <p><strong>Setup:</strong> Install WakaTime plugin → Connect account → Update README</p>
-</div>
-
 </div>
 
 ---
