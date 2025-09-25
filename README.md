@@ -95,21 +95,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=marawan10&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 </div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<!-- Featured Projects will be added once repositories are created -->
-<div align="center">
-  <h3>🚀 Coming Soon: Featured Projects</h3>
-  <p>Once you create your GitHub repositories, your featured projects will appear here automatically!</p>
-</div>
-
-</div>
-
 ---
 
 ## 💼 Professional Experience
