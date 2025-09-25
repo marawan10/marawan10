@@ -102,7 +102,7 @@
 <div align="center">
 
 ### 🤖 AI Coding Evaluator @ Outlier.ai
-**2024 - Present | Remote**
+**2024 - 2025 | Remote**
 
 - 🔍 Evaluate and improve AI-generated code across multiple programming languages
 - 📊 Achieved 95% accuracy in evaluating 500+ AI-generated code samples
