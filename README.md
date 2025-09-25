@@ -269,14 +269,6 @@ NLP           ████████████████     80%
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/marawan10/marawan10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=marawan10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/marawan10?label=Followers&style=social" alt="GitHub Followers" />
