@@ -106,17 +106,6 @@
 <div align="center">
   <h3>🚀 Coming Soon: Featured Projects</h3>
   <p>Once you create your GitHub repositories, your featured projects will appear here automatically!</p>
-  
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <div style="border: 2px dashed #444; padding: 20px; border-radius: 10px; width: 300px;">
-      <h4>📁 Portfolio Repository</h4>
-      <p>Your amazing Next.js portfolio will be showcased here</p>
-    </div>
-    <div style="border: 2px dashed #444; padding: 20px; border-radius: 10px; width: 300px;">
-      <h4>👤 Profile Repository</h4>
-      <p>This GitHub profile README repository</p>
-    </div>
-  </div>
 </div>
 
 </div>
